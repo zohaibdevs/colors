@@ -1,2 +1,15 @@
 # colors
-You Want to conver color name to haxa and hexa code to color use this file. i hope this will be help you well
+If you want to convert color names to hexadecimal codes and hexadecimal codes to colors.
+
+## code 
+Code Example
+```
+let code =colors.findByColor('colorname');
+return code;
+
+let colorName = colors.findByColorCode('colorcode');
+return colorName;
+```
+
+
+
